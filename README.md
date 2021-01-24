@@ -1,2 +1,2 @@
 # Personal-Finance-Management
-To manage my personal financial 
+With this first attempt to CQRS I want to create an application to track my incomes and expenses. 
