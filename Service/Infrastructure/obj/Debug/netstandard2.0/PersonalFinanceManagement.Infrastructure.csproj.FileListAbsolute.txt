@@ -1,0 +1,9 @@
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\bin\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.deps.json
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\bin\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.dll
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\bin\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.pdb
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\obj\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.csprojAssemblyReference.cache
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\obj\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.AssemblyInfoInputs.cache
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\obj\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.AssemblyInfo.cs
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\obj\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.csproj.CoreCompileInputs.cache
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\obj\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.dll
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Infrastructure\obj\Debug\netstandard2.0\PersonalFinanceManagement.Infrastructure.pdb

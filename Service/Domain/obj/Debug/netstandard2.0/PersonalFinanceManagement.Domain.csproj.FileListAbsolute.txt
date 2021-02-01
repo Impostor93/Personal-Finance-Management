@@ -1,0 +1,9 @@
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\obj\Debug\netstandard2.0\PersonalFinanceManagement.Domain.csprojAssemblyReference.cache
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\obj\Debug\netstandard2.0\PersonalFinanceManagement.Domain.AssemblyInfoInputs.cache
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\obj\Debug\netstandard2.0\PersonalFinanceManagement.Domain.AssemblyInfo.cs
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\obj\Debug\netstandard2.0\PersonalFinanceManagement.Domain.csproj.CoreCompileInputs.cache
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\bin\Debug\netstandard2.0\PersonalFinanceManagement.Domain.deps.json
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\bin\Debug\netstandard2.0\PersonalFinanceManagement.Domain.dll
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\bin\Debug\netstandard2.0\PersonalFinanceManagement.Domain.pdb
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\obj\Debug\netstandard2.0\PersonalFinanceManagement.Domain.dll
+e:\Projects\.Net Projects\Personal-Finance-Management\Service\Domain\obj\Debug\netstandard2.0\PersonalFinanceManagement.Domain.pdb

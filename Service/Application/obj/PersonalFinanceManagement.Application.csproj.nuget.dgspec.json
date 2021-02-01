@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Application\\PersonalFinanceManagement.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Application\\PersonalFinanceManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Application\\PersonalFinanceManagement.Application.csproj",
+        "projectName": "PersonalFinanceManagement.Application",
+        "projectPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Application\\PersonalFinanceManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\Home-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Home-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj": {
+                "projectPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj"
+              },
+              "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Infrastructure\\PersonalFinanceManagement.Infrastructure.csproj": {
+                "projectPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Infrastructure\\PersonalFinanceManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj",
+        "projectName": "PersonalFinanceManagement.Domain",
+        "projectPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\Home-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Home-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Infrastructure\\PersonalFinanceManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Infrastructure\\PersonalFinanceManagement.Infrastructure.csproj",
+        "projectName": "PersonalFinanceManagement.Infrastructure",
+        "projectPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Infrastructure\\PersonalFinanceManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Home-PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Home-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj": {
+                "projectPath": "E:\\Projects\\.Net Projects\\Personal-Finance-Management\\Service\\Domain\\PersonalFinanceManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
